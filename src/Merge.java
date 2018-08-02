@@ -2,7 +2,10 @@
 public class Merge {
 	
 	public static void main(String[] args) {
-		System.out.println("Hello I'm Cheo");
+		System.out.println("Hello world!");
+		
+		System.out.println("Hello I'm Cheo!!!!!!!");
 	}
 
+	
 }
